@@ -1,2 +1,2 @@
 # bdt_blackswordg
-css thingy for better discord
+dark anime theme for better discord
