@@ -2,10 +2,18 @@
 * @name badcss
 * @author mdzy
 * @version 1.1
-
+* @source https://github.com/puckzxz/NotAnotherAnimeTheme
+* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
 
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+
+/*
+  To make editing this theme easier I recommend using Notepad++
+  you can download it for free here https://notepad-plus-plus.org/download/
+*/
+
+/* Any images you use MUST end with .jpg or .png or any other image extension */
 
 :root {
   /*
@@ -26,7 +34,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.ibb.co/rHgkTj2/bad.jpg);
+  --home-icon-image: url(https://i.ibb.co/zSBXRHy/hsr.jpg);
 
   /*
     Change your friends icon image position
