@@ -2,11 +2,8 @@
 * @name badcss
 * @author mdzy
 * @version 1.1
-* @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
-*/
 
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+
 
 :root {
   /*
@@ -27,7 +24,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.ibb.co/zSBXRHy/hsr.jpg);
+  --home-icon-image: url(https://i.ibb.co/rHgkTj2/bad.jpg);
 
   /*
     Change your friends icon image position
